@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmerSylla
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning website languages
+- 👀 CEO of Ink for Digital Services
+- 🌱 Let's Code...
 
 
 <!---
